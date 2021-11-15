@@ -8,11 +8,11 @@
         <version>2.2.0.BUILD-SNAPSHOT</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>me.zhulin</groupId>
-    <artifactId>shop-api</artifactId>
+    <groupId>imohamady</groupId>
+    <artifactId>3dime-api</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>shop-api</name>
-    <description>Online Shopping API Server</description>
+    <name>3dime-api</name>
+    <description>Online 3dime API Server</description>
 
     <properties>
         <java.version>11</java.version>
